@@ -28,8 +28,11 @@ span{
 .playerFont{
 	font-size: 70px;
 }
-.randomWork{
-	width:20px;
-	height: 20px;
-	background: red;
+.arrow{
+	width: 30px;
+	height: 100px;
+	position: absolute;
+	top: 10%;
+	left: 30%;
+	background: yellow;
 }
